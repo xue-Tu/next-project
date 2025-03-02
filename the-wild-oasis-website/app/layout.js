@@ -1,7 +1,5 @@
-import Logo from "@/app/_components/Logo";
-import Navigations from "@/app/_components/Navigations";
 import "@/app/_styles/globals.css";
-import Header from "@/starter/components/Header";
+import Header from "@/app/_components/Header";
 
 import { Josefin_Sans } from "next/font/google";
 
@@ -35,8 +33,4 @@ function layout({ children }) {
   );
 }
 
-<<<<<<< HEAD
 export default layout;
-=======
-export default RootLayout;
->>>>>>> 6f03f6356a103d111db72ea60287e86342d169b6
