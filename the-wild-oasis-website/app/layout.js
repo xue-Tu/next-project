@@ -35,4 +35,8 @@ function layout({ children }) {
   );
 }
 
+<<<<<<< HEAD
 export default layout;
+=======
+export default RootLayout;
+>>>>>>> 6f03f6356a103d111db72ea60287e86342d169b6
